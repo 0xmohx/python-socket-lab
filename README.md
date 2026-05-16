@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # python-socket-lab
 Educational Python project demonstrating TCP client-server communication using sockets. It shows basic networking concepts, command exchange, and subprocess handling in a controlled local lab environment. For learning purposes only.
 =======
@@ -60,11 +59,11 @@ You must open **two separate terminal windows** inside the **same project direct
 
 Both must run at the same time.
 
----
 
-## 📍 Step 1: Navigate to Project Folder
 
-```bash id="step1"
+ 📍 Step 1: Navigate to Project Folder
+
+bash id="step1"
 cd python-socket-lab
 ▶️ Step 2: Start the Server
 
@@ -128,4 +127,4 @@ Do not use this knowledge on unauthorized systems.
 👨‍💻 Author
 
 Cybersecurity Student / Pentesting Learning Path
->>>>>>> 7cbedd6 (Initial commit - socket lab project)
+ (Initial commit - socket lab project)

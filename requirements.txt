@@ -1,0 +1,2 @@
+# External dependency
+click>=8.0
